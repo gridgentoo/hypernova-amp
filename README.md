@@ -9,6 +9,9 @@ AMPHTML ads — это прекрасный способ создания рек
 
 С помощью AMP вы можете создавать как сайты целиком, так и отдельные страницы, баннеры, истории, а также использовать AMP как быстрый и компактный формат вставки контента.
 
+[8 августа 2018] Используем AMP как библиотеку общего назначения для создания быстрых динамических сайтов  
+https://docs.google.com/document/d/1wIODuaLtwXprmXLfkIIw8YVEcw4vGtmE8jtP2OiVHqo/edit  
+
 [Aphrodite](https://github.com/Khan/aphrodite) bindings for [Hypernova](https://github.com/airbnb/hypernova)
 for rendering AMP pages.
 
